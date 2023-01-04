@@ -2,7 +2,7 @@
 <h3 align="left">A Systems Engineering Student and Enthusiastic Data Analyst from Dominican Republic.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working in a dealer company and personal projects<br>🤝 I’m looking for help with my knowledges and capacities<br>🌱 I’m currently learning Machine learning and AI<br>💬 Ask me about Python and Math<br>⚡ Fun fact, I'm black belt in Martial Arts (Judo)
+🔭 I’m currently working in a development and personal projects<br>🤝 I’m looking for help with my knowledges and capacities<br>🌱 I’m currently learning Machine learning and AI<br>💬 Ask me about Python and Math<br>⚡ Fun fact, I'm black belt in Martial Arts (Judo)
 
 
 ## 🌐 Socials:
